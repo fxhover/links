@@ -835,4 +835,18 @@
 [一套简洁的即时通信(IM)系统](http://weibo.com/p/1001603950681689090105)
 
 
+[构建高效安全的Nginx Web服务器](http://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=402819694&idx=1&sn=186376b3281d258b9de1cd6a53bfab90&scene=0#wechat_redirect)
+
+[使用Nginx+Lua(OpenResty)开发高性能Web应用](http://jinnianshilongnian.iteye.com/blog/2280928)
+
+[达达-高性能服务端优化之路](https://tech.imdada.cn/2015/11/04/高性能服务端优化之路/)
+
+[当当网架构优化的几点心得](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=409820160&idx=1&sn=d6a6ff05a5c509eb97116e47d7c42dad&scene=0#wechat_redirect)
+
+[基于mycat分布式数据库解决方案的学习汇总](http://mp.weixin.qq.com/s?__biz=MzI2MjA5MjUwMQ==&mid=402119084&idx=1&sn=43f59b6cf324e25715a8b415b28654ae&scene=2&srcid=0305P7aJcBTMn9NpnrBni8TJ&from=timeline&isappinstalled=0#wechat_redirect)
+
+[HTTPS科普扫盲帖](https://segmentfault.com/a/1190000004523659)
+
+[awesome-github只是为了更好地使用亲爱的GitHub](https://github.com/AntBranch/awesome-github)
+
 
