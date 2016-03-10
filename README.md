@@ -830,4 +830,9 @@
 
 [Linux 守护进程的启动方法](http://www.ruanyifeng.com/blog/2016/02/linux-daemon.html)
 
+[更新多行数据，然后把更新的结果读出来，这样的 SQL 要怎么写？](https://blog.jamespan.me/2016/02/28/mysql-select-from-update/)
+
+[一套简洁的即时通信(IM)系统](http://weibo.com/p/1001603950681689090105)
+
+
 
