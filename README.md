@@ -850,3 +850,18 @@
 [awesome-github只是为了更好地使用亲爱的GitHub](https://github.com/AntBranch/awesome-github)
 
 [极客眺望墙外风景的正确姿势Shadowsocks,ss](http://codingpy.com/article/climb-the-gfw-the-geek-way/)
+
+[探索 .git 目录，让你真正了理解git](http://blog.jobbole.com/98634/)
+
+[MemCache超详细解读](http://www.cnblogs.com/xrq730/p/4948707.html)
+
+[PHP 扩展开发入门](https://andot.gitbooks.io/bped/content/)
+
+[redis入门视频分享](http://carlosfu.iteye.com/blog/2276606)
+
+[微博的MySQL数据库优化实践经验](http://dockone.io/article/1106)
+
+[淘宝大秒系统设计详解](http://toutiao.com/i6260281405876470273)
+
+[Mysql分库分表方案](http://www.francissoung.com/2015/10/12/Mysql%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8%E6%96%B9%E6%A1%88/)
+
