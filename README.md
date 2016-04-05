@@ -865,3 +865,32 @@
 
 [Mysql分库分表方案](http://www.francissoung.com/2015/10/12/Mysql%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8%E6%96%B9%E6%A1%88/)
 
+[高质量服务端之路(二)—Redis集群最佳实践](http://mtydev.net/2015/11/02/%E9%AB%98%E8%B4%A8%E9%87%8F%E6%9C%8D%E5%8A%A1%E7%AB%AF%E4%B9%8B%E8%B7%AF(%E4%BA%8C)%E2%80%94Redis%E9%9B%86%E7%BE%A4%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/)
+
+[有赞搜索引擎实践(工程篇)](http://tech.youzan.com/search_engine_1/)
+
+[浅谈API安全设计](http://www.jianshu.com/p/d7c52d113a68)
+
+[常用Shell命令](http://www.jianshu.com/p/1ea90c81b659)
+
+[Redis云平台Cachecloud开源-视频教程](http://carlosfu.iteye.com/blog/2284673)
+
+[使用Redis来完成定时任务](https://segmentfault.com/a/1190000004634073)
+
+[不停止MySQL服务增加从库的两种方式](http://lizhenliang.blog.51cto.com/7876557/1669829)
+
+[redis配置认证密码](http://blog.csdn.net/zyz511919766/article/details/42268219) 
+
+[猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/stepup/stepup7_4.html)
+
+[Timeout: Ruby's Most Dangerous API](http://www.mikeperham.com/2015/05/08/timeout-rubys-most-dangerous-api/)
+
+[从 NGINX 日志滚动说起](https://yq.aliyun.com/articles/18044)
+
+[为终端设置Shadowsocks代理](http://droidyue.com/blog/2016/04/04/set-shadowsocks-proxy-for-terminal/)
+
+[我是一个线程](http://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=416915373&idx=1&sn=f80a13b099237534a3ef777d511d831a&scene=0#wechat_redirect)
+
+[linux入侵后续指南](http://www.heysec.org/archives/111)
+
+[初创公司如何获取用户](https://github.com/edagarli/howto-get-users)
