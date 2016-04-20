@@ -894,3 +894,13 @@
 [linux入侵后续指南](http://www.heysec.org/archives/111)
 
 [初创公司如何获取用户](https://github.com/edagarli/howto-get-users)
+
+[PHP 实战之设计模式：PHP 中的设计模式](https://segmentfault.com/a/1190000003817321)
+
+[一套完整的 Redis 入门 PPT](http://pan.baidu.com/s/1jIztTcy#path=%252F%25E6%2590%259C%25E7%258B%2590%25E8%25A7%2586%25E9%25A2%2591-redis%25E5%2585%25A5%25E9%2597%25A8%25E6%2595%2599%25E7%25A8%258B-slides)
+
+[你不可不知的Redis常用命令](http://www.epubit.com.cn/article/504)
+
+[跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
+
+[关于架构的优化和设计，架构师必须悟透的事情](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=411196355&idx=1&sn=be0d574b4a1fd930d897b6b3cf1fbc0a&scene=1&srcid=0411bNEm8otiUMl0GolTjjoe&from=groupmessage&isappinstalled=0#wechat_redirect)
