@@ -904,3 +904,6 @@
 [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
 
 [关于架构的优化和设计，架构师必须悟透的事情](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=411196355&idx=1&sn=be0d574b4a1fd930d897b6b3cf1fbc0a&scene=1&srcid=0411bNEm8otiUMl0GolTjjoe&from=groupmessage&isappinstalled=0#wechat_redirect)
+
+[Git 常用的不常用笔记](http://leoray.leanote.com/post/git)
+
