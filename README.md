@@ -904,3 +904,15 @@
 [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
 
 [关于架构的优化和设计，架构师必须悟透的事情](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=411196355&idx=1&sn=be0d574b4a1fd930d897b6b3cf1fbc0a&scene=1&srcid=0411bNEm8otiUMl0GolTjjoe&from=groupmessage&isappinstalled=0#wechat_redirect)
+
+[ruby url encode](http://stackoverflow.com/questions/6714196/ruby-url-encoding-string)
+
+[Gem::RemoteFetcher::FetchError: SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed](http://railsapps.github.io/openssl-certificate-verify-failed.html)
+
+[Go 边看边练 -《Go 学习笔记》系列（一）](https://hacpai.com/article/1437497122181)
+
+[Go语言并发与并行学习笔记(一) ](http://blog.csdn.net/kjfcpua/article/details/18265441)
+
+[Go语言的并发和并行](http://blog.csdn.net/kjfcpua/article/category/1833361)
+
+[Redis常用命令速查 <第二篇>](http://www.cnblogs.com/kissdodog/p/3599047.html)
