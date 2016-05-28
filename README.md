@@ -916,3 +916,9 @@
 [Go语言的并发和并行](http://blog.csdn.net/kjfcpua/article/category/1833361)
 
 [Redis常用命令速查 <第二篇>](http://www.cnblogs.com/kissdodog/p/3599047.html)
+
+[Git 常用的不常用笔记](http://leoray.leanote.com/post/git)
+
+[Nginx学习笔记(Nginx基础架构)](http://andremouche.github.io/nginx/nginx-internal-basic-architecture.html)
+
+[Go 性能优化技巧 10/10](https://segmentfault.com/a/1190000005066283)
