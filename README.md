@@ -922,3 +922,47 @@
 [Nginx学习笔记(Nginx基础架构)](http://andremouche.github.io/nginx/nginx-internal-basic-architecture.html)
 
 [Go 性能优化技巧 10/10](https://segmentfault.com/a/1190000005066283)
+
+[Linux bash入门](http://www.cnblogs.com/zemliu/archive/2012/05/13/2497784.html)
+
+[在 Ruby 中执行 Shell 命令的 6 种方法](https://segmentfault.com/a/1190000000368191)
+
+[Go语言(golang)开源项目大全](http://studygolang.com/articles/4457)
+
+[乐视秒杀：每秒十万笔交易的数据架构解读](http://dbaplus.cn/news-21-420-1.html)
+
+[Cache应用中的服务过载案例研究](http://tech.meituan.com/avalanche-study.html)
+
+[DNS 原理入门](http://www.ruanyifeng.com/blog/2016/06/dns.html)
+
+[渗透测试工具实战技巧合集](http://www.freebuf.com/sectool/105524.html?f=tt)
+
+[写有价值的单元测试](https://yq.aliyun.com/articles/54478)
+
+[golang讲解（go语言）标准库分析之os/exec](http://www.widuu.com/archives/01/927.html)
+
+[GO 命令教程](http://wiki.jikexueyuan.com/project/go-command-tutorial/0.12.html)
+
+[mysql并行复制降低主从同步延时的思路与启示](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959461&idx=1&sn=c4c9317f55075541be00d59039b88470&scene=0#wechat_redirect)
+
+[8年创业反思：技术人应该如何选择创业项目？](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597389&idx=1&sn=fdb93d7b92ed302a44fec5f5f05fced2&scene=0#wechat_redirect)
+
+[Web缓存杂谈](http://www.cnblogs.com/giggle/p/5565370.html)
+
+[轻松监控上万台服务器：企业运维监控平台架构设计与实践指南](http://dbaplus.cn/news-21-466-1.html)
+
+[Open-Falcon 人性化的互联网企业级监控系统](http://open-falcon.org/)
+
+[RESTful API 编写指南](http://blog.igevin.info/posts/restful-api-get-started-to-write/)
+
+[五分钟读懂UML类图](http://mp.weixin.qq.com/s?__biz=MzIzMjE1Njg4Mw==&mid=2650117683&idx=1&sn=85e9946c81a5c283a691acfca174d52a#rd)
+
+[使用多种姿势上传图片](http://mp.weixin.qq.com/s?__biz=MzI2NzExNTczMw==&mid=2653284851&idx=1&sn=9967ae75e786890d438ebbd152c0fcd5)
+
+[适合程序员的画图技法](http://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=2650610560&idx=1&sn=f01ef209d63f0ea1fbccbba0b6e351d0#rd)
+
+[20张Cheat Sheet，让前端开发与设计效率x2](http://www.jianshu.com/p/bf266ec5a244)
+
+[搭建自己的Shadowsocks服务器](http://itcoding.tk/2016/06/04/fuckGFW01/)
+
+[PHP 开发者实践](https://www.gitbook.com/book/ryancao/php-developer-prepares/details)
