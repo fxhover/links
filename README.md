@@ -966,3 +966,47 @@
 [搭建自己的Shadowsocks服务器](http://itcoding.tk/2016/06/04/fuckGFW01/)
 
 [PHP 开发者实践](https://www.gitbook.com/book/ryancao/php-developer-prepares/details)
+
+[HTTP协议详解](https://www.zybuluo.com/yangfch3/note/167490)
+
+[唯品会大规模 Redis Cluster 的生产实践](http://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651660079&idx=1&sn=bca50ad39792deadf167077308120264&scene=0#wechat_redirect)
+
+[vim/vi命令整理](https://zhuanlan.zhihu.com/p/21278816)
+
+[这可能是最全的 Redis 集群方案介绍了](http://mp.weixin.qq.com/s?__biz=MzA3MzYwNjQ3NA==&mid=2651296671&idx=1&sn=366de50a6787963517ff6e096c9d1643&scene=2&srcid=0601j5sEtcRyw9TtehhXW0Ix&from=timeline&isappinstalled=0#wechat_redirect)
+
+[『引』最全前端资源汇集](http://www.jeffjade.com/2016/03/30/104-front-end-tutorial/)
+
+[Redis 指南](http://wdxtub.com/2016/07/05/redis-guide/)
+
+[笨办法学C 中文版](http://wiki.jikexueyuan.com/project/learn-c-hard-way/)
+
+[Go net/http 超时机制完全手册](http://colobu.com/2016/07/01/the-complete-guide-to-golang-net-http-timeouts/)
+
+[MySQL · 特性分析 · 内部临时表](http://mysql.taobao.org/monthly/2016/06/07/)
+
+[golang并发编程的两种限速方法](http://www.cnblogs.com/jesse-joygenio/p/goroutine-limie-rate.html)
+
+[Linux性能调优指南](https://lihz1990.gitbooks.io/transoflptg/content/)
+
+[为什么我们需要 Rack ?](https://ruby-china.org/topics/21517)
+
+[使用 pry 调试 rails 项目--调试代码成为乐趣](http://ruby-china.org/topics/22376)
+
+[给一个团队写的敏捷实践方案](http://mp.weixin.qq.com/s?__biz=MzIwMjE3MDIwMA==&mid=2247483814&idx=1&sn=941c4ea5339f4766f8c4230e6d786ce1&scene=4#wechat_redirect)
+
+[《架构师成长之路》连载之NO.6](http://mp.weixin.qq.com/s?__biz=MjM5NzAwNDI4Mg==&mid=2652190749&idx=1&sn=bd4a3a990a85226541dda079a450f626#rd)
+
+[git rebase](http://iissnan.com/progit/html/zh/ch3_6.html)
+
+[关于于Go的跨平台交叉编译浅析](http://aurthurxlc.github.io/Aurthur-2015/Cross-platform-cross-compiler-with-go.html)
+
+[表单设计优化Tips——如何避免设计师常犯的15个错误](http://igeekbar.com/igeekbar/post/59.htm)
+
+[电商异步消息系统的实践](http://geek.csdn.net/news/detail/93274)
+
+[京东商品详情页前端开发宝典](http://geek.csdn.net/news/detail/93578)
+
+[浅谈redis超时(二)](http://mp.weixin.qq.com/s?__biz=MzAwODg3MDk0OQ==&mid=2247483698&idx=1&sn=9f82dcf764c86948a2ad5339d295cae4&scene=1&srcid=0807mSCBzip3ig1JuUGQtgj6&from=groupmessage&isappinstalled=0#wechat_redirect)
+
+[可用性高达五个9！支付系统高可用架构设计实战](http://dbaplus.cn/news-21-591-1.html)
