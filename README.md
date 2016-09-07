@@ -1010,3 +1010,27 @@
 [浅谈redis超时(二)](http://mp.weixin.qq.com/s?__biz=MzAwODg3MDk0OQ==&mid=2247483698&idx=1&sn=9f82dcf764c86948a2ad5339d295cae4&scene=1&srcid=0807mSCBzip3ig1JuUGQtgj6&from=groupmessage&isappinstalled=0#wechat_redirect)
 
 [可用性高达五个9！支付系统高可用架构设计实战](http://dbaplus.cn/news-21-591-1.html)
+
+[如何让你的网页打开速度降低到1s内](http://www.jianshu.com/p/d857c3ff78d6)
+
+[vim tab转成空格](http://vim.wikia.com/wiki/Converting_tabs_to_spaces)
+
+[RabbitMQ的基本概念和模型](http://lifeoflyz.com/2016/08/07/RabbitMQ%E7%9A%84%E4%B8%80%E4%BA%9B%E6%A6%82%E5%BF%B5%E5%92%8C%E6%A8%A1%E5%9E%8B/)
+
+[《深入解析Go》](https://tiancaiamao.gitbooks.io/go-internals/content/zh/index.html)
+
+[golang的内部实现](https://tracymacding.gitbooks.io/implementation-of-golang/content/)
+
+[HTTPS 升级指南](http://www.ruanyifeng.com/blog/2016/08/migrate-from-http-to-https.html)
+
+[golang游戏开发subject](http://toutiao.io/subjects/47783)
+
+[Go语言读写数据库](http://mp.weixin.qq.com/s?__biz=MzAxMzc4Mzk1Mw==&mid=2649836492&idx=8&sn=7afd1d65b36cde326962ef8ddd6bd04e&scene=0#wechat_redirect)
+
+[GO语言并发编程之互斥锁、读写锁详解](http://mp.weixin.qq.com/s?__biz=MzAxMzc4Mzk1Mw==&mid=2649836482&idx=1&sn=ab9bcd3af38cca6867cc9da11459b9dc&scene=0#wechat_redirect)
+
+[Golang 之profiler和trace工具](http://toutiao.com/i6263427801903268353/)
+
+[理解Go 1.5 vendor](http://tonybai.com/2015/07/31/understand-go15-vendor/)
+
+[Golang中的正则表达式 ](http://my.oschina.net/kuerant/blog/199146)
