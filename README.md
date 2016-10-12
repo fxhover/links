@@ -1034,3 +1034,5 @@
 [理解Go 1.5 vendor](http://tonybai.com/2015/07/31/understand-go15-vendor/)
 
 [Golang中的正则表达式 ](http://my.oschina.net/kuerant/blog/199146)
+
+[Capistrano 3 实现 Rails 自动化部署 ](https://ruby-china.org/topics/18616)
