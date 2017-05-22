@@ -1036,3 +1036,31 @@
 [Golang中的正则表达式 ](http://my.oschina.net/kuerant/blog/199146)
 
 [Capistrano 3 实现 Rails 自动化部署 ](https://ruby-china.org/topics/18616)
+
+[Mac 的 Vim 中 delete 键失效的原因和解决方案](http://www.th7.cn/system/mac/201505/103673.shtml)
+
+[PHP的错误机制总结](http://www.cnblogs.com/yjf512/p/5314345.html)
+
+[nginx配置支持php的pathinfo模式配置方法](http://blog.haohtml.com/archives/5941)
+
+[PHP 真正多线程的使用](http://zyan.cc/pthreads/)
+
+[PHP-FPM不完全指南](https://www.tooto.cc/archives/193)
+
+[mysql主从复制数据检查和修复percona-toolkit 之 【pt-table-checksum】、【pt-table-sync】](http://blog.csdn.net/wulantian/article/details/12062005)
+
+[MySQL索引原理及慢查询优化](http://tech.meituan.com/mysql-index.html)
+
+[HTML5 实现ajax无刷新换页面URL](http://www.zhangxinxu.com/wordpress/2013/06/html5-history-api-pushstate-replacestate-ajax/)
+
+[MySQL 的CASE WHEN 语句使用说明](http://www.jb51.net/article/28680.htm)
+
+[js弹层插件，artDialog](http://www.daimajiayuan.com/download/201304/yulan/artDialog4.1.7/index.html)
+
+[Pjax实现页面局部刷新](http://blog.csdn.net/toxic07/article/details/46831853)
+
+[jquery拖动排序插件](http://dragsort.codeplex.com/)
+
+[11款jquery拖拽拖放插件](http://www.shejidaren.com/jquery-drag-and-drop-plugins.html)
+
+[【第909期】那些年，那些跨域问题](http://mp.weixin.qq.com/s/G37_ZBIj_WkSpCyTuTpg3g)
